@@ -19,10 +19,10 @@ while True:
     m -= 1
 
 print(r)
-
 # mathematical approach
 
 # cnt = int(m / (k + 1)) * k
+# print (cnt)
 # cnt += m % (k + 1)
 # r += cnt * fir
 # r += (m - cnt) * sec
